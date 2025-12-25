@@ -1,0 +1,66 @@
+{
+  "good_examples": [],
+  "bad_examples": [
+    {
+      "prompt": "ROMEO:",
+      "temperature": 0.5,
+      "text": "ROMEO: And I'll see thee ill poison; Thy wit thou liest: Queen Margaret saw Thy murderous falchion smoking in his blood; The which thou once didst bend against her breast, But that"
+    },
+    {
+      "prompt": "ROMEO:",
+      "temperature": 0.8,
+      "text": "ROMEO: It was the law that she, and that often ere this day, When I have heard your king's desert recounted, Mine ear hath tempted judgment to desire. KING LEWIS XI: Then"
+    },
+    {
+      "prompt": "ROMEO:",
+      "temperature": 1.2,
+      "text": "ROMEO: banns; Yet never means to wed where he hath woo'd. Now must the world point at poor Katharina, And say, 'Lo, there is mad Petruchio's wife, If"
+    },
+    {
+      "prompt": "The king",
+      "temperature": 0.5,
+      "text": "The king hath not been commanded; With that: by your own own, I must confess I was not ignoble of descent; And meaner than myself have had like fortune. But as this title honours me and mine"
+    },
+    {
+      "prompt": "The king",
+      "temperature": 0.8,
+      "text": "The king my brother's son, Now, by my sceptre's awe, I make a vow, Such neighbour nearness to our sacred blood Should nothing privilege him, nor partialize The unst"
+    },
+    {
+      "prompt": "The king",
+      "temperature": 1.2,
+      "text": "The king and you quickly sink: Bestride the rock; the tide will wash you off, Or else you famish; that's a threefold death. This speak I, lords, to let"
+    },
+    {
+      "prompt": "What is",
+      "temperature": 0.5,
+      "text": "What is the matter? DUKE VINCENTIO: If it be your warrants for yourself; take heed to't. ISABELLA: This gentleman told somewhat of my tale,-- LUCIO: Right. DUKE VINCENTIO: It may"
+    },
+    {
+      "prompt": "What is",
+      "temperature": 0.8,
+      "text": "What is your will? LADY CAPULET: This is the matter:--Nurse, give leave awhile, We must talk in secret:--nurse, come back again; I have remember'd me, thou'"
+    },
+    {
+      "prompt": "What is",
+      "temperature": 1.2,
+      "text": "What is he that in her life? there was nothing done to her. POMPEY: Sir, your honour cannot come to that yet. ESCALUS: No, sir, nor I mean it not. POMPEY: Sir"
+    },
+    {
+      "prompt": "To be",
+      "temperature": 0.5,
+      "text": "To be a man, who first in his face, To make the worst of death. BENVOLIO: A fire, and a sort such master, may be not so but to fear With such purple tears be al"
+    },
+    {
+      "prompt": "To be",
+      "temperature": 0.8,
+      "text": "To be, I, not wind. Welcome! one mess is like to be your cheer: Come, sir; we will better it in Pisa. BAPTISTA: I follow you. BIONDELLO: Cambio! LUCENTIO:"
+    },
+    {
+      "prompt": "To be",
+      "temperature": 1.2,
+      "text": "To be equals'd and wonder of, The traitor, and very nomest; For thou art too base and right: If grant thou, in thy nativity Adjudged an ol"
+    }
+  ],
+  "repetitive_examples": []
+}
