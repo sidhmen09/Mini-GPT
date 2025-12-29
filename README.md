@@ -11,4 +11,8 @@ We are teaching a computer to predict the next word in a sentence, and carefully
 - tqdm (training progress)
 - matplotlib (plots and analysis)
 
- 
+## Datasets Used
+- Shakespeare Novel dataset
+
+
+
