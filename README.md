@@ -120,8 +120,6 @@ An honest look at what the model can't do:
 | Limited Context | 128-token window means no long-term coherence |
 | Domain Lock-in | Can only generate Shakespeare-style text |
 
-See [`analysis/FAILURE_ANALYSIS.md`](analysis/FAILURE_ANALYSIS.md) for detailed examples and explanations.
-
 ---
 
 ## 📊 Training Results
